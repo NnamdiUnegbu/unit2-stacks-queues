@@ -1,6 +1,5 @@
 # unit2-stacks-queues
 CMSC 315 Unit 2 discussion: Python stacks and queues
-Unit 2 Discussion: Stacks and Queues
 # Overview
 In this assignment, two basic linear data structures in python, stack (LIFO) and Queue (FIFO) were explored. I created and described both and illustrated their characteristics with practical examples.
 ## Learning Objectives
